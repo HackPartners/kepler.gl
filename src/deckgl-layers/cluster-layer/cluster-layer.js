@@ -18,7 +18,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
-import {ScatterplotLayer} from 'deck.gl';
+import {ScatterplotLayer} from '@deck.gl/layers';
 import {_AggregationLayer as AggregationLayer} from '@deck.gl/aggregation-layers';
 
 import geoViewport from '@mapbox/geo-viewport';
